@@ -14,4 +14,4 @@ spring:
       client:
         url: http://localhost:8085
 
-msg: Hello Darling
+msg: Hello Sweet Heart
