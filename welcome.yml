@@ -1,20 +1,4 @@
-server:
-  port: 9091
-  
-spring:
-  application:
-    name: WELC-API
-    
-  boot:
-    admin:
-      client:
-        url: http://localhost:8085/
-        
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
+msg: Hello Baby
         
 #eureka:
  # client:
